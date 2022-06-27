@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/upyun/go-sdk/v3/upyun"
+	"github.com/beebird/upyun-go-sdk/v3/upyun"
 )
 
 const (

@@ -13,10 +13,10 @@ import (
 	"sync"
 	"time"
 
+	"github.com/beebird/upyun-go-sdk/v3/upyun"
 	"github.com/fatih/color"
 	"github.com/gosuri/uiprogress"
 	"github.com/jehiah/go-strftime"
-	"github.com/upyun/go-sdk/v3/upyun"
 )
 
 const (
